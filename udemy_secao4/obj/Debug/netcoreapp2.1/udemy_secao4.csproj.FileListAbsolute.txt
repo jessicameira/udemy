@@ -1,0 +1,11 @@
+C:\Users\Jeh\Documents\csharp\udemy\udemy_secao4\bin\Debug\netcoreapp2.1\udemy_secao4.deps.json
+C:\Users\Jeh\Documents\csharp\udemy\udemy_secao4\bin\Debug\netcoreapp2.1\udemy_secao4.runtimeconfig.json
+C:\Users\Jeh\Documents\csharp\udemy\udemy_secao4\bin\Debug\netcoreapp2.1\udemy_secao4.runtimeconfig.dev.json
+C:\Users\Jeh\Documents\csharp\udemy\udemy_secao4\bin\Debug\netcoreapp2.1\udemy_secao4.dll
+C:\Users\Jeh\Documents\csharp\udemy\udemy_secao4\bin\Debug\netcoreapp2.1\udemy_secao4.pdb
+C:\Users\Jeh\Documents\csharp\udemy\udemy_secao4\obj\Debug\netcoreapp2.1\udemy_secao4.csprojAssemblyReference.cache
+C:\Users\Jeh\Documents\csharp\udemy\udemy_secao4\obj\Debug\netcoreapp2.1\udemy_secao4.csproj.CoreCompileInputs.cache
+C:\Users\Jeh\Documents\csharp\udemy\udemy_secao4\obj\Debug\netcoreapp2.1\udemy_secao4.AssemblyInfoInputs.cache
+C:\Users\Jeh\Documents\csharp\udemy\udemy_secao4\obj\Debug\netcoreapp2.1\udemy_secao4.AssemblyInfo.cs
+C:\Users\Jeh\Documents\csharp\udemy\udemy_secao4\obj\Debug\netcoreapp2.1\udemy_secao4.dll
+C:\Users\Jeh\Documents\csharp\udemy\udemy_secao4\obj\Debug\netcoreapp2.1\udemy_secao4.pdb
