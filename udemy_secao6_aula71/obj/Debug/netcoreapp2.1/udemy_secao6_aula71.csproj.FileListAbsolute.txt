@@ -1,0 +1,11 @@
+C:\Users\Jeh\Documents\analise\udemy\udemy_secao6_aula71\bin\Debug\netcoreapp2.1\udemy_secao6_aula71.deps.json
+C:\Users\Jeh\Documents\analise\udemy\udemy_secao6_aula71\bin\Debug\netcoreapp2.1\udemy_secao6_aula71.runtimeconfig.json
+C:\Users\Jeh\Documents\analise\udemy\udemy_secao6_aula71\bin\Debug\netcoreapp2.1\udemy_secao6_aula71.runtimeconfig.dev.json
+C:\Users\Jeh\Documents\analise\udemy\udemy_secao6_aula71\bin\Debug\netcoreapp2.1\udemy_secao6_aula71.dll
+C:\Users\Jeh\Documents\analise\udemy\udemy_secao6_aula71\bin\Debug\netcoreapp2.1\udemy_secao6_aula71.pdb
+C:\Users\Jeh\Documents\analise\udemy\udemy_secao6_aula71\obj\Debug\netcoreapp2.1\udemy_secao6_aula71.csprojAssemblyReference.cache
+C:\Users\Jeh\Documents\analise\udemy\udemy_secao6_aula71\obj\Debug\netcoreapp2.1\udemy_secao6_aula71.csproj.CoreCompileInputs.cache
+C:\Users\Jeh\Documents\analise\udemy\udemy_secao6_aula71\obj\Debug\netcoreapp2.1\udemy_secao6_aula71.AssemblyInfoInputs.cache
+C:\Users\Jeh\Documents\analise\udemy\udemy_secao6_aula71\obj\Debug\netcoreapp2.1\udemy_secao6_aula71.AssemblyInfo.cs
+C:\Users\Jeh\Documents\analise\udemy\udemy_secao6_aula71\obj\Debug\netcoreapp2.1\udemy_secao6_aula71.dll
+C:\Users\Jeh\Documents\analise\udemy\udemy_secao6_aula71\obj\Debug\netcoreapp2.1\udemy_secao6_aula71.pdb
